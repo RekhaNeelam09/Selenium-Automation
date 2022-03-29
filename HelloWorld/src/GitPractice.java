@@ -6,6 +6,7 @@ public class GitPractice {
 		System.out.println("Git Hub Practice");
 		System.out.println("Git Hub Practice Second Statement");
 		System.out.println("Git Hub Practice Third Statement");
+		System.out.println("Git Hub Practice Second Statement");
 	}
 
 }
