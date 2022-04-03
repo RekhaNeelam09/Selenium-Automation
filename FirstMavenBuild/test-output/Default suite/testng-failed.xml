@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="pageObjectModel.POM_001">
+      <class name="switches.AlertHandling">
         <methods>
           <include name="beforeMethod"/>
           <include name="f"/>
           <include name="afterMethod"/>
         </methods>
-      </class> <!-- pageObjectModel.POM_001 -->
+      </class> <!-- switches.AlertHandling -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
